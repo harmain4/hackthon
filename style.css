@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+nav{
+    width: Fixed (1,440px)px;
+height: Hug (68px)px;
+padding: 0px 100px 0px 100px;
+gap: 0px;
+display: flex;
+justify-content: space-between;
+
+opacity: 0px;
+
+
+width: Fixed (1,440px)px;
+height: Hug (68px)px;
+padding: 0px 100px 0px 100px;
+gap: 0px;
+justify: space-between;
+opacity: 0px;
+
+
+}
+/* Frame 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 35px;
+
+margin: 0 auto;
+width: 531px;
+height: 481px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
